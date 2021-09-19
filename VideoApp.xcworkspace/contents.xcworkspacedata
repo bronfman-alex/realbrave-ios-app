@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:VideoApp/VideoApp.xcodeproj">
+      location = "group:/Users/alexbronfman/Documents/Projects/twilio-video-app-ios/VideoApp/ .xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Pods/Pods.xcodeproj">
